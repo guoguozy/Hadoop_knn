@@ -48,16 +48,16 @@
    ```
    如图：
    
-   <img src="../img/2.png" style="zoom:67%;" />
+   <img src="./img/2.png" style="zoom:67%;" />
    
 4. 然后将不同的计算方法注释掉，测试不同的计算方法下得出的结果。
 ## 成果截图
 
 运行得到的截图如下：
-   <img src="../img/3.png" style="zoom: 50%;" />
-   <img src="../img/4.png" style="zoom: 67%;" />
+   <img src="./img/3.png" style="zoom: 50%;" />
+   <img src="./img/4.png" style="zoom: 67%;" />
 用vim打开输出文件：
-   <img src="../img/1.png" style="zoom:67%;" />
+   <img src="./img/1.png" style="zoom:67%;" />
 
 很不巧，经过我的比较三种计算方法得到的结果都是一样的，如上面这张图所示。所以就不再多展示两张一样的图在这里了。（具体的结果可以在github仓库的result文件夹中查看）
 
