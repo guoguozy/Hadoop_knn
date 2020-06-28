@@ -42,7 +42,7 @@
    然后按照下列步骤编译运行
    
    ```
-javac KNN.java
+   javac KNN.java
    jar cvf KNN.jar ./KNN*.class
    /usr/local/hadoop/bin/hadoop jar KNN.jar KNN train output
    ```
